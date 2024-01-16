@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/bin/Debug/net7.0/SetGetTask1
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/bin/Debug/net7.0/SetGetTask1.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/bin/Debug/net7.0/SetGetTask1.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/bin/Debug/net7.0/SetGetTask1.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/bin/Debug/net7.0/SetGetTask1.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/refint/SetGetTask1.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/SetGetTask1.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day19/SetGetTask1/SetGetTask1/obj/Debug/net7.0/ref/SetGetTask1.dll
