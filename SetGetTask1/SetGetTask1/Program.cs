@@ -18,11 +18,15 @@ class Program
         for (int i = 0; i < say; i++)
         {
             ChinaCity chinaCity = new ChinaCity();
+
+            string chinaCityy;
             do
             {
                 Console.WriteLine("seherin adini daxil edin:");
-                chinaCity.Name = Console.ReadLine();
-            } while (String.IsNullOrWhiteSpace(chinaCity.Name));
+                chinaCityy = Console.ReadLine();
+            } while (String.IsNullOrWhiteSpace(chinaCityy));
+
+            chinaCity.Name = chinaCityy;
 
             string StrchinaCityPop;
             int chinaCityPop;
@@ -37,7 +41,7 @@ class Program
 
             chinaCities[i] = chinaCity;
         }
-        var avaragePopulation = 0;
+        int avaragePopulation = 0;
         for (int i = 0; i < chinaCities.Length; i++)
         {
             Console.WriteLine($"{chinaCities[i].Name}-{chinaCities[i].Population}");

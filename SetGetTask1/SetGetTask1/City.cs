@@ -14,7 +14,7 @@ namespace SetGetTask
             }
             set
             {
-                if (value.Length >= 3 && value.Length <= 20 && CheckName(value))
+                if ((value.Length >= 3 && value.Length <= 20)&& CheckName(value))
                 {
                     _name = value;
                 }
